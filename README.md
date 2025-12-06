@@ -37,8 +37,8 @@
 
 ### **i. Process Control Commands**
 
-~~* `fork`~~
-~~* `getpid`~~
+* ~~`fork`~~
+* ~~`getpid`~~
 * `ps`
 * `kill`
 * `sleep`
